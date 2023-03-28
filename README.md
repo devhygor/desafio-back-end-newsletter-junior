@@ -50,7 +50,7 @@ npx knex migrate:latest
 npm start
 ```
 
-O servidor por padrao irá rodar na porta 3000 a não ser que você altere a variavel de ambiente no .env . Para acessar as rotas da API, utilize o Postman ou outro programa semelhante.
+O servidor por padrao irá rodar na porta `3000` `http://localhost:3000/forms` a não ser que você altere a variavel de ambiente no .env . Para acessar as rotas da API, utilize o Postman ou outro programa semelhante.
 
 ## Testando o projeto
 
