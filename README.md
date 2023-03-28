@@ -87,5 +87,5 @@ http://localhost:3000/forms?startDate=2023-01-01&endDate=2023-12-31
 - Postman
 
 ## Apresentação
- Fiz um pequeno video e postei no youtube, para apresentar o meu projeto, na tentativa de facilitar a vida de quem for havaliar o projeto, nao ter que baixar o projeto na sua maquina etc.
+ Fiz um pequeno video e postei no youtube, para apresentar o meu projeto, na tentativa de facilitar a vida de quem for havaliar o projeto.
 https://youtu.be/2qQpzpbjRXc
