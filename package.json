@@ -1,0 +1,21 @@
+{
+  "name": "desafio-back-end-newsletter-junior",
+  "version": "1.0.0",
+  "description": "Desafio back-end para vaga de Júnior na empresa Precato",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "migrate": "npx knex migrate:latest",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hygor Melo Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0",
+    "knex": "^2.4.2",
+    "pg": "^8.10.0"
+  }
+}
